@@ -16,5 +16,5 @@ func main() {
 		"address":address,
 	})
 	fmt.Println(data)
-
+	fmt.Println(string(data))
 }
